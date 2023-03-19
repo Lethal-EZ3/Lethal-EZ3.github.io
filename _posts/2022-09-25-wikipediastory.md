@@ -7,6 +7,7 @@ categories: writing-work
 tags: [writing-work]
 image: city-1.jpg
 ---
+
 <html>
   <head>
     <title>I Found a Wikipedia Page on… Myself</title>
