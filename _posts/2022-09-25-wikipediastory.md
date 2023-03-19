@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "I Found a Wikipedia Page on… Myself"
-"
 author: "Ethan Zhang"
 categories: writing-work
 tags: [writing-work]
