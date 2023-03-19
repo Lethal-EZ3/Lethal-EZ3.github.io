@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Ethan Z."
-categories: About Me
+categories: about-me
 tags: [about-me]
 image: doggo.jpg
 ---
