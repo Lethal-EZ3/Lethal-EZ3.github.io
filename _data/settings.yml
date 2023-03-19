@@ -10,7 +10,7 @@ menu:
 - {name: 'About Me',  url: 'about-me'}
 # - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Writing Work',      url: 'Writing Work'}
+- {name: 'Writing Work',      url: 'writing-work'}
 - {name: 'About',              url: 'about'}
 #- {name: 'Contact',            url: 'contact'}
 

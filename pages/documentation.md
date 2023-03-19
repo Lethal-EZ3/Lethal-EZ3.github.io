@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Writing Work
-category: documentation
-permalink: /documentation
+category: writing-work
+permalink: /writing-work
 ---
