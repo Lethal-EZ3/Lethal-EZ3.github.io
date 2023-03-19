@@ -2,8 +2,8 @@
 layout: post
 title: "About the Author"
 author: "Ethan Z."
-categories: facts
-tags: [sample]
+categories: About Me
+tags: [about-me]
 image: doggo.jpg
 ---
 
