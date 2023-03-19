@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Writing Work
-category: writing-work
+category: writing
 permalink: /writing-work
 ---
