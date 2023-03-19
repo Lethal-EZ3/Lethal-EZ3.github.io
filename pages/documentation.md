@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: Writing Work
 category: documentation
 permalink: /documentation
 ---
