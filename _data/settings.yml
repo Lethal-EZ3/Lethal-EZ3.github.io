@@ -9,7 +9,7 @@ google-ID: 'G-0K16M9BQP7'
 menu:
 - {name: 'About Me',  url: 'about-me'}
 # - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'League Clips',       url: 'league-clips'}
 - {name: 'Writing Work',      url: 'writing-work'}
 #- {name: 'About',              url: 'about'}
 #- {name: 'Contact',            url: 'contact'}
