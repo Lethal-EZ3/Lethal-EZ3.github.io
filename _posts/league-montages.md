@@ -3,7 +3,7 @@ layout: post
 title: "League Montages"
 author: "Ethan Z."
 categories: league
-tags: [about-me]
+tags: [league]
 image: ahri.png
 ---
 
