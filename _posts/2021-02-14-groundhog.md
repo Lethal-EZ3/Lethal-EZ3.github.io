@@ -4,7 +4,7 @@ title: "The Groundhog’s Nonexistence"
 author: "Ethan Zhang"
 categories: writing
 tags: [writing-work]
-image: azir.jpg
+image: cf2.jpg
 ---
 
 <html>
