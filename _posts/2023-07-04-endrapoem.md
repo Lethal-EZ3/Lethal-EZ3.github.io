@@ -33,4 +33,4 @@ image: endra.png
  <p>And the page turns.</p>
 <br>
 <br>
-<p>This poem was written as a gift for the Twitch Streamer (and content creator on other platforms),EndraEXE for her last stream. She is a very chill person and streamer. Please go check out her<a href="https://www.youtube.com/@EndraEXE"> <a>channel/archive</a> and keep an eye out for if she returns!</p>
+<p>This poem was written as a gift for the Twitch Streamer (and content creator on other platforms) EndraEXE for her last stream. She is a very chill person and streamer. Please go check out her<a href="https://www.youtube.com/@EndraEXE"> <a>channel/archive</a> and keep an eye out for if she returns!</p>
