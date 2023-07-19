@@ -4,7 +4,7 @@ title: "Defiance Upon a Crimson Shore"
 author: "Ethan Zhang"
 categories: writing
 tags: [writing-work]
-image: mtsuri.png
+image: mtsuri.webp
 ---
 
 <html>
