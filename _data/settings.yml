@@ -12,7 +12,7 @@ menu:
 - {name: 'League Clips',       url: 'league-clips'}
 - {name: 'Writing Work',      url: 'writing-work'}
 #- {name: 'About',              url: 'about'}
-- {name: 'golf',            url: 'golf'}
+- {name: 'Golf',            url: 'Golf'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

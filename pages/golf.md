@@ -1,6 +1,6 @@
 ---
 layout: page
-title: golf
+title: Golf
 permalink: /golf
 ---
 
