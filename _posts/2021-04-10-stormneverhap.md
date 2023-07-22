@@ -4,7 +4,7 @@ title: "I Found the Records for a Natural Disaster that Never Existed"
 author: "Ethan Zhang"
 categories: writing
 tags: [writing-work]
-image: firestorm.png
+image: firestorm-used.png
 ---
 
 <html>

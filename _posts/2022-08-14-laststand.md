@@ -4,7 +4,7 @@ title: "A Final Stand"
 author: "Ethan Zhang"
 categories: writing
 tags: [writing-work]
-image: finalstand.png
+image: finalstand-used.png
 ---
 
 <html>

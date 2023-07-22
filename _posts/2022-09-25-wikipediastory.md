@@ -4,7 +4,7 @@ title: "I Found a Wikipedia Page on… Myself"
 author: "Ethan Zhang"
 categories: writing
 tags: [writing-work]
-image: city-1.jpg
+image: city-used.jpg
 ---
 
 <html>
