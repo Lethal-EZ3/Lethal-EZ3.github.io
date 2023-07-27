@@ -4,7 +4,7 @@ title: "The Ace of Spades"
 author: "Ethan Zhang"
 categories: writing
 tags: [writing-work]
-image: trigger-used.png
+image: ace-used.png
 ---
 
 <html>
