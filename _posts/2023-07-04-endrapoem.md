@@ -26,7 +26,7 @@ image: endra.png
  <p>The people you help,</p>
  <p>The people you call your fans,</p>
  <p>We toast to one last ride.</p>
-</br>
+<br>
  <p>To a new chapter,</p>
  <p>To a new era,</p>
  <p>One last ride,</p>
