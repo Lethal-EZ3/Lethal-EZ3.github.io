@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Loving Gun"
+title: "The "Loving" Gun"
 author: "Ethan Zhang"
 categories: writing
 tags: [writing-work]
