@@ -27,7 +27,4 @@ And her voice I hark.<br>
 She never saw it, but she had left her mark.<br>
 Dim light filtered through the trees.<br>
 The world feels so dark,<br>
-Through the light, I feel a cold breeze.<br>
-  </p>
-</body>
-</html>
+Through the light, I feel a cold breeze.<br></p>
